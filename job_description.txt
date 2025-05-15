@@ -1,0 +1,23 @@
+We are seeking talented and highly motivated Data Scientists to join our dynamic team. As an entry-level data scientist, you will play a critical role in analyzing data, developing, and testing AI/ML models, and delivering valuable insights to drive data-informed decisions.
+:
+
+    Collect, clean, and process large datasets from multiple sources
+    Develop and test advanced machine learning algorithms and models to solve problems in a computationally efficient and statistically effective manner
+    Analyze and interpret data to identify trends, patterns, and insights by executing statistical and data mining techniques
+    Visualize data and present findings to stakeholders
+    Collaborate with cross-functional teams to identify business problems and develop data-driven solutions
+    Communicate project progress and results to relevant stakeholders
+    Stay up to date with the latest data science techniques and tools
+
+:
+
+    Currently enrolled in a Bachelors program in Computer Science, Statistics, Mathematics, or a related field
+    Should have relevant project work and/or internships with proven implementation of data science concepts
+    Proficient in Python and must know about libraries like (Pandas, Scikit-Learn, , Matplotlib, TensorFlow, etc.); SQL, R is a plus
+    Good understanding of data manipulation, statistical analysis, and machine learning algorithms concepts
+    Ability to work independently and manage multiple tasks simultaneously
+    Strong attention to detail, with a research-focused mindset.
+    Excellent critical thinking and problem-solving skills
+    Excellent communication - should be able to describe findings to a technical and non-technical audience
+    Familiarity with data visualization tools such as Tableau or Power BI is a plus
+    High motivation and good work ethic is a must
